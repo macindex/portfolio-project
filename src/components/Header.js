@@ -9,7 +9,7 @@ const Header = () => {
         <Typed
           className="typed-text"
           strings={[
-            "Web design",
+            "Development back-end",
             "Web Development",
             "Facebook Ads SMM",
             "Google Ads"

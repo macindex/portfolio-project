@@ -16,7 +16,7 @@
 <<<<<<< HEAD
     "react-particles-js": "^3.4.1",
 =======
-    
+    "react-particles": "0.0.3",
 >>>>>>> bbac9b75afbf40190247f89e735a85eedab7d227
     "react-scripts": "4.0.3",
     "react-typed": "^1.2.0",
