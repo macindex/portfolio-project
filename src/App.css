@@ -9,7 +9,7 @@
 }
 
 body {
-	font-family:"Roboto Condesed" sans-serif;
+	font-family:"Roboto Condesed", sans-serif;
 }
 
 
@@ -80,6 +80,7 @@ nav ul li {
 .main-info {
 	display: flex;
 	position: absolute;
+<<<<<<< HEAD
 	top: 0;
 	left: 0;
 	right: 0;
@@ -89,6 +90,12 @@ nav ul li {
 	text-align: center;
 	font-family: "Roboto Condensed", sans-serif;
 	z-index: 1;
+=======
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	font-family:"Roboto Condensed" sans-serif;
+>>>>>>> bbac9b75afbf40190247f89e735a85eedab7d227
 }
 
 .main-info h1 {
@@ -96,12 +103,15 @@ nav ul li {
 	text-transform: uppercase;
 }
 
+<<<<<<< HEAD
 @media(max-width: 768px){
 	.main-info h1 {
 		font-size: 1.5rem !important;
 	}
 }
 
+=======
+>>>>>>> bbac9b75afbf40190247f89e735a85eedab7d227
 /*-----------Typed------------*/
 
 .typed-text {
@@ -109,6 +119,7 @@ nav ul li {
 	color: var(--primary-white);
 }
 
+<<<<<<< HEAD
 @media(max-width: 768px){
 	.main-info h1 {
 		font-size: 1.7rem !important;
@@ -118,6 +129,8 @@ nav ul li {
 	}
 }
 
+=======
+>>>>>>> bbac9b75afbf40190247f89e735a85eedab7d227
 /*-----------HEADER MAIN OFFER BUTTON------------*/
 
 .btn-main-offer {
@@ -128,6 +141,7 @@ nav ul li {
 	color: var(--primary-white);
 	margin: 2rem;
 }
+<<<<<<< HEAD
 
 .btn-main-offer:hover {
 	text-decoration: none;
@@ -144,3 +158,5 @@ nav ul li {
 }
 
 @media(max-width: )
+=======
+>>>>>>> bbac9b75afbf40190247f89e735a85eedab7d227
